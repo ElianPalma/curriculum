@@ -40,6 +40,7 @@ const SkillsUniverse = () => {
     { skill: "GTM", color: "#246fdb", size: 60, distance: 320, speed: 0.09 },
     { skill: "SEO", color: "#0c9b49", size: 70, distance: 340, speed: 0.08 },
     { skill: "Hosting", color: "#0070f3", size: 65, distance: 360, speed: 0.07 },
+    { skill: "Flatsome", color: "#0070f3", size: 65, distance: 360, speed: 0.07 },
     { skill: "Dominios", color: "#1a73e8", size: 60, distance: 380, speed: 0.06 }
   ];
 

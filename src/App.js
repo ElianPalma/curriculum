@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import GalaxyBackground from './components/GalaxyBackground';
 import SkillsUniverse from './components/SkillsUniverse';
 import CustomCursor from './components/CustomCursor';
-import pdfespañol from './components/archivos/cv-español.pdf';
+import pdfespañol from './components/archivos/cvelian2026.pdf';
 import './styles.css';
 
 const App = () => {
